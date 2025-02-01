@@ -132,6 +132,9 @@ transaction an event is also inserted into an outbox table.
 • Another Golang program will be polling the outbox table periodically and if there are
 unprocessed events in outbox table, processes them and marks them as processed'
                 link='/' github='https://github.com/abhilashdk2016/transactional-outbox-pattern' />
+          <Card title='Microservice App in Golang' 
+                summary='Implemented a microservice app using Golang. Deployed the services using Kubernetes'
+                link='/' github='https://github.com/abhilashdk2016/microservices-with-go' />
         </div>
       </div>
     </motion.div>
